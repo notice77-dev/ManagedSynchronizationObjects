@@ -1,4 +1,4 @@
-# ManagedSynchronizationObjects (Managed RAII Lock Class Example)
+# Managed RAII Lock Class Example
 
 1. 사용 방법
 - lock.h 파일의 "#define LOCK_NAME (NAME)" 코드 아래에 "NAME(ALLOCATOR_LOCK)" 와 같이 추가하려는 Lock 종류를 열거.
