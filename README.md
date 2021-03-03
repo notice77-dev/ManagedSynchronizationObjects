@@ -1,5 +1,3 @@
-# ManagedSynchronizationObjects
-
 # ManagedSynchronizationObjects (Managed RAII Lock Class Example)
 
 1. 사용 방법
